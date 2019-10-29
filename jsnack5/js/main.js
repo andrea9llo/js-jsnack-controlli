@@ -15,4 +15,4 @@ for (var i = 0; i < 6; i++) {
 }
 
 document.getElementById('mioid').innerHTML = "questi sono i numeri dispari " + array;
- console.log(array);
+console.log(array);
